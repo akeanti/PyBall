@@ -41,5 +41,16 @@
 
 Advanced Python Viral Codes Making Them Open Sources Like God Intended Them To Be...
 
+### Step To Use Our Code :
+- Open your IDE
+- Run this command in the terminal
+```console
+pip install pygame random math
+```
+- And you're ready to run the code.
+- Now use a sreen recorder, you can edit the video using ClipChamp and add AI or your own voice to it.
+- Enjoy :).
+
+### Preview :
 [https://github.com/user-attachments/assets/5e58feb3-cf6b-4eca-92ae-e8e0d06293e0
 ](https://github-production-user-asset-6210df.s3.amazonaws.com/162023213/354395296-5e58feb3-cf6b-4eca-92ae-e8e0d06293e0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240801T221206Z&X-Amz-Expires=300&X-Amz-Signature=b4a9a09f5de182a83152365e5e116d2f28169ef4692b449b23c95605d3998ac1&X-Amz-SignedHeaders=host&actor_id=162023213&key_id=0&repo_id=836934339)
